@@ -49,7 +49,4 @@ Experience a modern, mobile-friendly interface with smooth transitions and intui
 <img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/bbe2b582313e1e7866c736148b2e49ac06e34647/InterviewPrepAI_Screenshots/AIGeneratedQ%26A.png" /><br>
 
 
-# Resume-LLM
-# Resume-LLM
-# Resume-LLM
-# Resume-LLM
+
